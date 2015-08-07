@@ -1,6 +1,6 @@
 {
   "name": "sync-types",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Sync types to use in your flux/redux actions",
   "main": "index.js",
   "scripts": {
