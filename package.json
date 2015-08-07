@@ -1,0 +1,30 @@
+{
+  "name": "sync-types",
+  "version": "0.0.0",
+  "description": "Sync types to use in your flux/redux actions",
+  "main": "index.js",
+  "scripts": {
+    "push": ".bin/push",
+    "test": ".bin/test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uxtemple/sync-types.git"
+  },
+  "keywords": [
+    "sync",
+    "types",
+    "redux",
+    "flux",
+    "actions"
+  ],
+  "author": "Darío Javier Cravero <dario@uxtemple.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uxtemple/sync-types/issues"
+  },
+  "homepage": "https://github.com/uxtemple/sync-types#readme",
+  "devDependencies": {
+    "tape": "^4.0.3"
+  }
+}
